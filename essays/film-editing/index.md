@@ -37,7 +37,7 @@ In an interview between Walter Murch and Anne V. Coates, they were talking about
 {% include images/figure-wrap.html
   image-path="/assets/images/waltercottes.jpg"
   image-position="center"
-  image-width="46%"
+  image-width="100%"
 %}
 
 ## Where are we heading?
