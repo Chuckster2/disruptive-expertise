@@ -1,8 +1,8 @@
 ---
 title: "The Rise of Film Editing in the Digital Age"
 layout: scrollstory
-header-image: 5e2b661b52301a7c75114545_1-Video-Editing-Hero.jpg
-thumbnail: 5e2b661b52301a7c75114545_1-Video-Editing-Hero.jpg
+header-image: /assets/images/5e2b661b52301a7c75114545_1-Video-Editing-Hero.jpg
+thumbnail: /assets/images/5e2b661b52301a7c75114545_1-Video-Editing-Hero.jpg
 summary: When Film editing went from manual cuts to digital ones
 header-title: The Rise of Film Editing in the Digital Age
 header-subtitle: How a Digital Editing Software disrupted the Physical Cut and Paste Method
@@ -20,7 +20,7 @@ A quote from the book No-Budget Feature Filmmaking in the Digital Era by Adam Ni
 
 
 {% include images/figure-wrap.html
-  image-path="fotothek_df_pk_0000165_012.jpg"
+  image-path="/assets/images/Fotothek_df_pk_0000165_012.jpg"
   image-position="right"
   image-width="46%"
 %}
